@@ -33,9 +33,6 @@
 
 <img alt="catwinguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=catwinguy&show_icons=true&hide_border=true" />
 
-<br>
-<br>
-
 ---
 
 Logos from icons8.com
