@@ -3,13 +3,17 @@
 ---
 
 ## About Me
-- 🎮 I’m currently working on a small Web App Game for school and I'm trying to expand my programming language repertoire. 
-- 🎨 I’m also attempting to learn how to draw with Procreate.
-- 😄 Pronouns: She/Her
+💻 I'm a 3rd year Computer Engineer major that's planning on becoming a software developer.
 
----
+🎮 Current Task: 
+  - Working on a small Web App Game for school
+  - Expanding my programming language repertoire. 
 
-## My Languages and Tools:
+🎨 Hobby: Learning how to draw with Procreate.
+
+😄 Pronouns: She/Her
+
+### My Languages and Tools
 
 <img align="left" alt="Python3" width="26px" src="https://img.icons8.com/color/26/000000/python.png"/>
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/26/000000/c-programming.png"/>
@@ -25,9 +29,12 @@
 
 <br>
 <br>
----
+<br>
 
-<img align="left" alt="catwinguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=catwinguy&show_icons=true&hide_border=true" />
+<img alt="catwinguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=catwinguy&show_icons=true&hide_border=true" />
+
+<br>
+<br>
 
 ---
 
