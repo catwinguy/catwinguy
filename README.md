@@ -3,15 +3,15 @@
 ---
 
 ## About Me
-💻 I'm a 3rd year Computer Engineer major that's planning on becoming a software developer.
+💻 I'm a senior Computer Engineer major going into software engineering/developing.
 
 🎮 Current Task: 
-  - Working on a small Web App Game for school
-  - Expanding my programming language repertoire. 
+  - Focusing on school.
+  - Applying to jobs opportunities. 
 
-🎨 Hobby: Learning how to draw with Procreate.
+🎨 Hobby: Learning how to draw with Procreate. Watching TikToks. Reading novels.
 
-😄 Pronouns: She/Her
+😄 Pronouns: She/Her/Hers
 
 ### My Languages and Tools
 
